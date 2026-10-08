@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "news-ai-analyzer"
+version = "0.1.0"
+description = "Concurrent Multi-Source News Scraper & LLM Summarizer using asyncio, httpx, Pydantic, and LangChain"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "httpx",
+    "pydantic",
+    "langchain",
+    "langchain-groq",
+    "python-dotenv"
+]

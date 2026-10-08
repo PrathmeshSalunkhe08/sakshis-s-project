@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company",
+        "summary": "Samsung Electronics projected a record quarterly profit exceeding 100 trillion won, driven by a surge in AI chip demand that boosted memory sales. The company expects a nearly nine‑fold increase in Q3 earnings, marking the highest quarterly profit for any tech firm.",
+        "topics": [
+            "AI",
+            "Semiconductors",
+            "Memory Chips",
+            "Samsung Electronics",
+            "Quarterly Earnings",
+            "Tech Industry"
+        ],
+        "urgency_score": 9,
+        "category": "Tech"
+    },
+    {
+        "title": "Samsung Q3 profit seen soaring 782% to record $80 billion as AI fuels chip boom",
+        "summary": "Samsung’s Q3 earnings surged 782% to a record $80 billion, driven by a sharp rise in demand for advanced memory chips used in AI data centers. The company’s dominant position in the global memory market and the AI‑driven chip boom have propelled its profitability to unprecedented levels.",
+        "topics": [
+            "Samsung",
+            "Q3 earnings",
+            "AI demand",
+            "memory chips",
+            "chip market",
+            "profitability",
+            "data centers"
+        ],
+        "urgency_score": 9,
+        "category": "Business"
+    },
+    {
+        "title": "Chinese-speaking hacker possibly linked to AI-driven attacks on S. Korean banks: report | Yonhap News Agency",
+        "summary": "U.S. cybersecurity firm CrowdStrike identified an unidentified Chinese‑speaking hacker who is believed to be behind a series of AI‑driven phishing attacks targeting South Korean banks. The threat actor used generative‑AI tools to craft convincing emails that tricked employees into revealing credentials, leading to unauthorized access to banking systems. The incident underscores the growing risk of AI‑enhanced cybercrime and the need for banks to strengthen email‑security and employee training.",
+        "topics": [
+            "cybersecurity",
+            "AI",
+            "phishing",
+            "banking",
+            "South Korea",
+            "CrowdStrike",
+            "hacker",
+            "cyber threat"
+        ],
+        "urgency_score": 9,
+        "category": "Tech"
+    },
+    {
+        "title": "Six in 10 Australian Workers Have Caught AI Getting It Wrong at Work",
+        "summary": "A recent survey reveals that 60% of Australian workers have encountered AI systems making mistakes in their daily tasks, highlighting growing concerns over the reliability of AI tools in the workplace. The findings underscore the need for better AI governance, clearer accountability, and enhanced training for employees to mitigate productivity losses and maintain trust in automated systems.",
+        "topics": [
+            "Artificial Intelligence",
+            "Workplace Productivity",
+            "AI Reliability",
+            "Human-AI Collaboration",
+            "AI Governance",
+            "Employee Training",
+            "Trust in Automation"
+        ],
+        "urgency_score": 7,
+        "category": "Tech"
+    },
+    {
+        "title": "Advantage Partners Expands ISO Certification Services with ISO/IEC 42001 and ISO/IEC 27701 Accreditations",
+        "summary": "Advantage Partners, a subsidiary of Montlake Partner Group, has secured new accreditations from the International Accreditation Service (IAS) for ISO/IEC 42001 (Information Security Management System) and ISO/IEC 27701 (Privacy Information Management System). The move expands the firm’s ISO certification services, positioning it to help clients meet evolving information security and privacy compliance requirements. The announcement underscores the growing demand for robust data protection frameworks and highlights Advantage Partners’ commitment to delivering comprehensive certification solutions.",
+        "topics": [
+            "ISO/IEC 42001",
+            "ISO/IEC 27701",
+            "Information Security Management",
+            "Privacy Information Management",
+            "Accreditation",
+            "International Accreditation Service",
+            "Advantage Partners",
+            "Montlake Partner Group",
+            "Compliance",
+            "Data Protection"
+        ],
+        "urgency_score": 7,
+        "category": "Business"
+    },
+    {
+        "title": "CureMD Earns ISO/IEC 42001 Certification for Responsible AI as It Advances Agentic Care",
+        "summary": "CureMD Healthcare announced that its Artificial Intelligence Management System (AIMS) has achieved ISO/IEC 42001:2023 certification, the first of its kind for responsible AI in healthcare. The certification confirms that CureMD’s AI platform meets rigorous international standards for transparency, accountability, and ethical governance, reinforcing trust among clinicians and patients. By positioning itself as a leader in agentic care—where AI supports autonomous decision‑making—CureMD is poised to accelerate adoption of AI‑driven clinical workflows while ensuring regulatory compliance.",
+        "topics": [
+            "Artificial Intelligence",
+            "Healthcare",
+            "ISO/IEC 42001",
+            "Responsible AI",
+            "Agentic Care",
+            "AI Governance",
+            "Compliance",
+            "Technology Innovation"
+        ],
+        "urgency_score": 5,
+        "category": "Tech"
+    },
+    {
+        "url": "https://invalid-url-example-12345.com",
+        "fetch_status": "failed",
+        "error": "Failed to fetch content"
+    }
+]
